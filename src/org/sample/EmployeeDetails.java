@@ -18,7 +18,8 @@ public class EmployeeDetails {
 			System.out.println("python");
 			System.out.println("SQL");
 			System.out.println("Java class starts at 5Pm");
-			
+			System.out.println("Python class starting time 4Pm");
+
 		}
 		
 		

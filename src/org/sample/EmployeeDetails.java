@@ -14,6 +14,10 @@ public class EmployeeDetails {
 		
 		for (Integer integer : l) {
 			
+			System.out.println("java");
+			System.out.println("python");
+			System.out.println("SQL");
+			
 		}
 		
 		
